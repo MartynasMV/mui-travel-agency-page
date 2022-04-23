@@ -6,7 +6,7 @@ import { Grid } from '@mui/material';
 function App() {
   return (
     <div className="App">
-      <Container maxWidth="sm">
+      <Container maxWidth="md">
         <Grid container spacing={5}>
           <TourCard />
           <TourCard />
