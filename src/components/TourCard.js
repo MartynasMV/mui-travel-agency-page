@@ -1,7 +1,7 @@
 import { Paper } from '@mui/material';
 import { Grid } from '@mui/material';
 import { Typography } from '@mui/material';
-import { Box } from '@mui/system';
+import { Box } from '@mui/material';
 import AccessTimeIcon from '@mui/icons-material/AccessTime';
 import { Rating } from '@mui/material';
 import { createTheme, ThemeProvider } from '@mui/material';
